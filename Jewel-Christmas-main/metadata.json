@@ -1,0 +1,7 @@
+{
+  "name": "Jewel Christmas Tree 3D",
+  "description": "An interactive 3D holiday experience controlled by hand gestures. Form a tree, scatter stars, or zoom into memories using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
